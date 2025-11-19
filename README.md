@@ -8,33 +8,46 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sohid....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-## 👨‍💻 About Me
+<hr/>
+<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
-Hi, I'm **Sohid** — a pragmatic full-stack developer from Bangladesh 🇧🇩  
-I specialize in building secure, assignment-perfect UI and backend flows that match exact specs and reference designs.
+### Talking about Personal Stuff:
 
-- 🔭 Currently working on pixel-perfect React components with TailwindCSS and DaisyUI  
-- 🧠 Obsessed with debugging deeply and validating every step of the stack  
-- 🎯 Passionate about creating modular, reusable components and clean data flows  
-- 💬 Ask me about React, Tailwind, Firebase Auth, MongoDB, and conditional rendering logic  
-- 🎨 I love blending technical precision with creative branding — especially on GitHub  
-- ⚡ Fun fact: I enjoy fixing bugs more than writing new features 😄
+- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
+- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
 
-I believe in clarity, precision, and uniqueness — whether it's in code, design, or developer experience.
-<br>
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+
+<hr/>
+---
+
+## 🧠 Skills & Technologies
+
+| **Skill Category** | **Technologies** |
+|--------------------|------------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js" /> |
+| **Frontend Technologies** | <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" /> |
+| **Back-End Development** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,figma" /> |
+
+---
 
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="left">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code> 
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="Javascript" height="25" src="javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="html5.svg"></code>
+  <code><img title="CSS" height="25" src="css.svg"></code>
+  <code><img title="React" height="25" src="react-original.svg"></code>
+  <code><img title="Git" height="25" src="git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="visualstudio.png"></code> 
+  <code><img title="JSON" height="25" src="json.svg"></code>
+  <code><img title="GitHub" height="25" src="github.svg"></code>
+  <code><img title="npm" height="25" src="npm.svg"></code>
 </p>
 <hr>
 
@@ -53,3 +66,30 @@ I believe in clarity, precision, and uniqueness — whether it's in code, design
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sohid7254&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/sohid7254/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohid7254&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+
+  ## 🌐 Connect With Me  
+
+<p align="left">
+
+<!-- Email -->
+<a href="sohidameen321@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/mdshahidulislam8854" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/sahidalhussain?igsh=MW1hZzR0bGY5NHZ5aA==" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
