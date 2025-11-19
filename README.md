@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sohid7254/sohid7254/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner.jpg"/>
+  <img src="https://github.com/sohid7254/sohid7254/blob/main/Blue%20and%20White%20Illustrated%20Welcome%20Banner.jpg" height="400"/>
 </p>
 <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sohid7254.sohid7254">
@@ -9,22 +9,28 @@
   </a>
 </h1>
 <hr/>
-<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
+<img align="right" height="200" width="365" alt="" src="10_coding_dribbble.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <strong>JS, TS, React, Node, Express MongoDB, SQL & AWS.</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
-- 📫 &nbsp; Reach me out: <strong>nuradnanchowdhury015@gmail.com.</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, Node, Express, MongoDB</strong>
+- 📫 &nbsp; Reach me out: <strong>sohidameen321@gmail.com</strong>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 <hr/>
----
 
-## 🧠 Skills & Technologies
+ ## Current Activities
+- 🔍 &nbsp; Exploring **Next.js** for server-side rendering and routing
+- 🧭 &nbsp; Building a **tourism website** with React + TailwindCSS
+- 🔐 &nbsp; Implementing **custom Firebase Auth flows** with OTP and password reset
+- 🧪 &nbsp; Experimenting with **form validation** and conditional rendering logic
+- 🎨 &nbsp; Designing a **unique GitHub banner** and profile branding
+- 🛠️ &nbsp; Refactoring components to be **modular and reusable**
+
+### 🧠 Skills & Technologies
 
 | **Skill Category** | **Technologies** |
 |--------------------|------------------|
@@ -36,21 +42,35 @@
 
 ---
 
-<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="left">
-  <code><img title="Javascript" height="25" src="javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="html5.svg"></code>
-  <code><img title="CSS" height="25" src="css.svg"></code>
-  <code><img title="React" height="25" src="react-original.svg"></code>
-  <code><img title="Git" height="25" src="git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="visualstudio.png"></code> 
-  <code><img title="JSON" height="25" src="json.svg"></code>
-  <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="npm" height="25" src="npm.svg"></code>
-</p>
-<hr>
+## 🧠 Languages & Tools
 
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+ ## 🌐 Connect With Me  
+
+<p align="left">
+
+<!-- Email -->
+<a href="sohidameen321@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/mdshahidulislam8854" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/sahidalhussain?igsh=MW1hZzR0bGY5NHZ5aA==" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
 
 ## Contibution Graph chart
 <p align="center">
@@ -73,23 +93,4 @@
     </a>
   </div>
 
-  ## 🌐 Connect With Me  
-
-<p align="left">
-
-<!-- Email -->
-<a href="sohidameen321@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/mdshahidulislam8854" target="_blank">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/sahidalhussain?igsh=MW1hZzR0bGY5NHZ5aA==" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</p>
+ 
