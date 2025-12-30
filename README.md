@@ -30,21 +30,46 @@
 - 🎨 &nbsp; Designing a **unique GitHub banner** and profile branding
 - 🛠️ &nbsp; Refactoring components to be **modular and reusable**
 
-### 🧠 Skills & Technologies
+## 🛠️ Skills
 
-| **Skill Category** | **Technologies** |
-|--------------------|------------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js" /> |
-| **Frontend Technologies** | <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" /> |
-| **Back-End Development** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,figma" /> |
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-Secure-blue?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Env%20Variables-222222?style=for-the-badge&logo=dotenv&logoColor=white" />
+</p>
+
+### 🚀 DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Ready-green?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logs-Debug-orange?style=for-the-badge&logo=logstash&logoColor=white" />
+</p>
+
+### 🧩 Tools & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+### 📈 Workflow & Presentation
+<p align="left">
+  <img src="https://img.shields.io/badge/Folder%20Structure-Clean-blueviolet?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docs-Professional-lightgrey?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Profile%20Enhancements-Dynamic-yellow?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
 
 ---
-
-## 🧠 Languages & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
  ## 🌐 Connect With Me  
 
@@ -55,15 +80,15 @@
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
 
-<!-- Facebook -->
-<a href="https://www.facebook.com/mdshahidulislam8854" target="_blank">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<!-- Github -->
+<a href="https://github.com/sohid7254" target="_blank"> 
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>
 
-<!-- Instagram -->
-<a href="https://www.instagram.com/sahidalhussain?igsh=MW1hZzR0bGY5NHZ5aA==" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/sohid7254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 </p>
 
