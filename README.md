@@ -98,14 +98,14 @@
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+
     <a href="https://streak-stats.demolab.com/?user=sohid7254"  title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sohid7254&theme=react&border_color=61dafb&hide_border=true" alt="sohid7254" />
     </a>
     <a href="https://github.com/sohid7254/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats-kohl-ten-58.vercel.app/api?username=sohid7254&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
+  
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/sohid7254/github-readme-stats">
